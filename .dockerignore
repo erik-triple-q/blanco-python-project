@@ -1,0 +1,22 @@
+# .dockerignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.git/
+.gitignore
+.github/
+.agents/
+docs/
+data/
+*.db
+*.sqlite3
+.env
+.env.*
+!.env.example
